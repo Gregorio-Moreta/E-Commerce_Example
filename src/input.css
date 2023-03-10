@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './components/Nav/Nav.css';
+@import './components/Main/Main.css';
+@import './components/Footer/Footer.css';
+
+
